@@ -2,7 +2,7 @@
 
 DeepSeek ChatHub is a locally hosted AI chatbot powered by **DeepSeek-R1**, **LangChain**, and **Streamlit**. It provides a privacy-focused and responsive chatbot experience without relying on cloud services.
 
-![Chatbot Screenshot](chatbot_ui.png)
+![Chatbot Screenshot](/chatbot_ui.png)
 
 ## 🚀 Features
 - 🛡️ **Privacy-Focused**: Runs entirely on your machine.
